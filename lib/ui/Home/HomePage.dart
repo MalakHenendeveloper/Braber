@@ -54,7 +54,7 @@ class Homepage extends StatelessWidget {
                                   fontWeight: FontWeight.w500),
                             ),
                             Text(
-                              state.user.name??'lokkkkk',
+                              state.user.name??'Gust',
                               style: TextStyle(
                                   fontSize: 20.sp,
                                   fontWeight: FontWeight.bold,
