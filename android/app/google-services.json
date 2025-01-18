@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876532653914",
+    "project_id": "braber-a8e47",
+    "storage_bucket": "braber-a8e47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876532653914:android:8bc7980b8b9ae9adf49d63",
+        "android_client_info": {
+          "package_name": "com.example.braber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAdGOJRizX44QsCGOQ9HZxJ5FWHIxUb6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
