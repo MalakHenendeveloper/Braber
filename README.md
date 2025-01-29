@@ -1,20 +1,58 @@
-<<<<<<< HEAD
-# braber
 
-A new Flutter project.
+🚀 Barber Booking App
 
-## Getting Started
+Barber Booking App is a Flutter application designed for booking barber services. The app allows users to select a service, choose a date and time, and book an appointment. It integrates with Firebase Firestore to store and manage appointments. Additionally, there is an Admin page for managing and accepting bookings. The app provides a smooth user experience for booking and viewing available timeslots for various services, ensuring an efficient system for both barbers and clients.
 
-This project is a starting point for a Flutter application.
+🛠️ Technologies and Tools Used
 
-A few resources to get you started if this is your first Flutter project:
+🏗 Flutter: The core framework for building the application.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📝 Dart: The programming language used.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Braber
->>>>>>> f393391bdca8eb0d614c5325c9655ada3709afdd
+🌐 Firebase Firestore: To store and manage user appointments and service details in the cloud.
+
+🔄 Bloc/Cubit: For efficient state management.
+
+📦 GetIt: For dependency injection and better code organization.
+
+📱 ScreenUtil: To make the UI responsive across different screen sizes.
+
+🏛 Clean Architecture: For a well-defined project structure.
+
+▶️ How to Run the Application
+
+Ensure Flutter and Dart are installed on your machine.
+Set up Firebase Firestore for the project and configure it.
+Run the following commands in the terminal:
+bash
+نسخ
+تحرير
+flutter pub get
+flutter run
+✨ Key Features
+
+✅ Browse and select barber services
+✅ Choose available time slots for a service
+✅ Book appointments and store them in Firestore
+✅ View booked appointments with time and date
+✅ Admin page to accept or decline bookings
+✅ State management with Bloc/Cubit
+✅ Full screen adaptability using ScreenUtil
+✅ Well-structured code with Clean Architecture
+✅ Dependency injection using GetIt
+
+📋 Requirements
+
+🚀 Flutter 3.16.0 or later
+💡 Dart 3.0 or later
+🔑 Firebase Firestore configured in the project
+🔗 API integration for booking services and managing data
+
+🤝 Contribution
+
+If you wish to contribute to the project, please fork the repository and submit a Pull Request after making changes.
+
+👨‍💻 Author
+
+Malak Henen
+
