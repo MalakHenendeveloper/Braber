@@ -48,10 +48,6 @@ flutter run
 🔑 Firebase Firestore configured in the project
 🔗 API integration for booking services and managing data
 
-🤝 Contribution
-
-If you wish to contribute to the project, please fork the repository and submit a Pull Request after making changes.
-
 👨‍💻 Author
 
 Malak Henen
