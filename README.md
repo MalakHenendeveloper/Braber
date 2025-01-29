@@ -25,8 +25,8 @@ Ensure Flutter and Dart are installed on your machine.
 Set up Firebase Firestore for the project and configure it.
 Run the following commands in the terminal:
 bash
-نسخ
-تحرير
+
+
 flutter pub get
 flutter run
 ✨ Key Features
